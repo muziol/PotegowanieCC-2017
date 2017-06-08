@@ -4,3 +4,5 @@
   - oraclejdk8
   script: 
   - mvn test -B
+  notifications:
+    email: false
